@@ -14,6 +14,6 @@ func TestMaxInt(t *testing.T) {
 	}
 }
 
-func TestMain(m *testing.M) {
-	main()
-}
+//func TestMain(m *testing.M) {
+//	main()
+//}
